@@ -1,0 +1,6 @@
+.DS_STORE
+._.DS_STORE
+*.out
+*.o
+oracle
+pathfinder
